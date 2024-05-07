@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OpenGLTempl.dir/src/main.cpp.o CMakeFiles/OpenGLTempl.dir/src/model.cpp.o CMakeFiles/OpenGLTempl.dir/src/stb.cpp.o CMakeFiles/OpenGLTempl.dir/lib/glad/src/glad.c.o -o OpenGLTempl  -lassimp lib/glfw/src/libglfw3.a /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/librt.a -lm -ldl
